@@ -8,3 +8,6 @@ found by PCA. We test the performance of bGPFA for four decoders: a linear regre
 
 
 The bGPFA algorithm is developed by Jensen et al, while it is tested on data from Glaser et al 2018. 
+
+The codes for the LSTM and the multilayer perceptron are imported from Glaser et al's "Machine Learning
+for Neural Decoding" paper, 2020. These were available to the public on https://github.com/kordinglab/neural_decoding.
